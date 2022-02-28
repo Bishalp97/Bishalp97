@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3706a8b3480E1A87C82AC9b94eA4Bf4E9Ca3559c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3706a8b3480E1A87C82AC9b94eA4Bf4E9Ca3559c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Evil Punks Squad",
+  "SYMBOL": "TEPS",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theevilpunkssquad",
+  "SHOW_BACKGROUND": true
+}
